@@ -4,3 +4,4 @@
     'Magelicious_RoyalTrek',
     __DIR__
 );
+
